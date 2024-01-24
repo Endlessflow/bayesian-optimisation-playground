@@ -1,0 +1,1 @@
+This is an archive of some of my experiments trying to learn more about bayesian optimisation. Just a messy collection of scripts.
